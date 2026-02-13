@@ -30,22 +30,6 @@ DATA & FILE OVERVIEW
 	2. DP_models  : 4 independent DP models (frozen .pb files). 
 	3. Template-input-files: Sample input files for DP training, MD with LAMMPS, CP2K single point energy calculations
 
-DATASET CITATION:
+This repository contains the data and trained models associated with the study:
 Debendra Meher, Nikhil V. S. Avula, Sundaram Balasubramanian; Slowly quenched, high pressure glassy B2O3 at DFT accuracy. J. Chem. Phys. 28 January 2025; 162 (4): 044503. https://doi.org/10.1063/5.0240030
 
-Bibtex format:
-
-@article{10.1063/5.0240030,
-    author = {Meher, Debendra and Avula, Nikhil V. S. and Balasubramanian, Sundaram},
-    title = {Slowly quenched, high pressure glassy B2O3 at DFT accuracy},
-    journal = {The Journal of Chemical Physics},
-    volume = {162},
-    number = {4},
-    pages = {044503},
-    year = {2025},
-    month = {01},
-    issn = {0021-9606},
-    doi = {10.1063/5.0240030},
-    url = {https://doi.org/10.1063/5.0240030},
-    eprint = {https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0240030/20360243/044503_1_5.0240030.pdf},
-}
