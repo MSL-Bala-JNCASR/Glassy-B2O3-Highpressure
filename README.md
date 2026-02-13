@@ -1,5 +1,3 @@
-This README.txt file was generated on 2025-01-28 by Debendra Meher
-
 GENERAL INFORMATION
 
 1. Title of Dataset: Data from "Slowly Quenched, High-Pressure Glassy B2O3 at DFT Accuracy"
@@ -26,7 +24,7 @@ GENERAL INFORMATION
 
 DATA & FILE OVERVIEW
 1. Folder list:
-	1. Train-data       : DFT data (training and validation) in raw (.raw) and binary file (.npy) formats.
+	1. Train-data      : DFT data (training and validation) in raw (.raw) and binary file (.npy) formats.
 	2. DP_models  : 4 independent DP models (frozen .pb files). 
 	3. Template-input-files: Sample input files for DP training, MD with LAMMPS, CP2K single point energy calculations
 
