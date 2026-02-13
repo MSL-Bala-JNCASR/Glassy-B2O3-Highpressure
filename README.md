@@ -31,5 +31,6 @@ DATA & FILE OVERVIEW
 	3. Template-input-files: Sample input files for DP training, MD with LAMMPS, CP2K single point energy calculations
 
 This repository contains the data and trained models associated with the study:
+
 Debendra Meher, Nikhil V. S. Avula, Sundaram Balasubramanian; Slowly quenched, high pressure glassy B2O3 at DFT accuracy. J. Chem. Phys. 28 January 2025; 162 (4): 044503. https://doi.org/10.1063/5.0240030
 
