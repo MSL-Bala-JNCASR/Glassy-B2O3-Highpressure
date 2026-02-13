@@ -29,7 +29,8 @@ DATA & FILE OVERVIEW
 	1. Train-data       : DFT data (training and validation) in raw (.raw) and binary file (.npy) formats.
 	2. DP_models  : 4 independent DP models (frozen .pb files). 
 	3. Template-input-files: Sample input files for DP training, MD with LAMMPS, CP2K single point energy calculations
-Dataset citation:
+
+DATASET CITATION:
 Debendra Meher, Nikhil V. S. Avula, Sundaram Balasubramanian; Slowly quenched, high pressure glassy B2O3 at DFT accuracy. J. Chem. Phys. 28 January 2025; 162 (4): 044503. https://doi.org/10.1063/5.0240030
 Bibtex format:
 @article{10.1063/5.0240030,
